@@ -1,0 +1,17 @@
+23:43:14 **** Build of configuration Debug for project t0_p_bl ****
+make all 
+Building file: ../src/bootloader.c
+Invoking: MicroBlaze gcc compiler
+mb-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/bootloader.o" -mxl-frequency -I/mnt/hgfs/DBS/a7_awg_p1/vitis/bd_wrapper/export/bd_wrapper/sw/bd_wrapper/standalone_microblaze_0/bspinclude/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v11.0 -mno-xl-soft-mul -mhard-float -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/bootloader.d" -MT"src/bootloader.o" -o "src/bootloader.o" "../src/bootloader.c"
+In file included from ../src/bootloader.c:30:
+../src/blconfig.h:5:2: warning: #warning "Please provide the correct address value for the definition FLASH_IMAGE_BASEADDR. Please give the flash offset @ which SREC application is programmed" [-Wcpp]
+    5 | #warning "Please provide the correct address value for the definition FLASH_IMAGE_BASEADDR. Please give the flash offset @ which SREC application is programmed"
+      |  ^~~~~~~
+../src/bootloader.c:35:10: fatal error: xspi.h: No such file or directory
+   35 | #include "xspi.h"
+      |          ^~~~~~~~
+compilation terminated.
+make: *** [src/subdir.mk:29: src/bootloader.o] Error 1
+
+23:43:15 Build Finished (took 692ms)
+

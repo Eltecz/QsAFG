@@ -1,0 +1,7 @@
+
+*.zip
+
+.vscode
+
+p0/1/1.sim/*
+p0/1/1.runs/*

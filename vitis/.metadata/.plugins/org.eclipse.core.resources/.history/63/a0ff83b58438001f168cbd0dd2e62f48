@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="T0_P_CPP" location="/mnt/hgfs/DBS/a7_awg_p/vitis/T0_P_CPP" platform="/mnt/hgfs/DBS/a7_awg_p1/vitis/bd_wrapper/export/bd_wrapper/bd_wrapper.xpfm" platformUID="xilinx:::0.0(custom)" systemProject="T0_P_CPP_system" sysConfig="bd_wrapper" runtime="C/C++" cpu="standalone_microblaze_0" cpuInstance="microblaze_0" os="standalone" language="CPP" mssSignature="4b0ac1b88c184f5f68757147cec1c793">
+  <configuration name="Debug" id="xilinx.gnu.mb.exe.debug.131601910">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.mb.exe.release.411668475">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="empty_application"/>
+</sdkproject:SdkProject>

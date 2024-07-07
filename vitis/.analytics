@@ -1,0 +1,562 @@
+timestamp=[2024-06-24 21:47:06], mode=WORKBENCH_START, duration=0:00:06.002, duration_ms=6002, data={}
+timestamp=[2024-06-24 21:47:07], mode=WORKBENCH_UI_INIT, duration=0:00:00.603, duration_ms=603, data={editors_count=0, platform_editors_count=0, projects_count=0, platform_projects_count=0, active_platform_editor=false, projects=}
+timestamp=[2024-06-24 21:47:12], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:04.784, duration_ms=4784, data={}
+timestamp=[2024-06-24 21:53:11], mode=PLATFORM_GENERATION, duration=0:00:13.486, duration_ms=13486, data={name=bd_wrapper}
+timestamp=[2024-06-24 21:53:20], mode=PLATFORM_GENERATION, duration=0:00:08.577, duration_ms=8577, data={name=t1_p_cpp_system}
+timestamp=[2024-06-24 21:53:24], mode=BUILD, duration=0:00:03.649, duration_ms=3649, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-24 22:26:16], mode=PLATFORM_GENERATION, duration=0:00:07.203, duration_ms=7203, data={name=bd_wrapper}
+timestamp=[2024-06-24 22:26:22], mode=PLATFORM_GENERATION, duration=0:00:06.815, duration_ms=6815, data={name=t1_p_cpp_system}
+timestamp=[2024-06-24 22:26:25], mode=BUILD, duration=0:00:02.543, duration_ms=2543, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-24 23:11:47], mode=PLATFORM_GENERATION, duration=0:00:06.640, duration_ms=6640, data={name=t1_p_cpp_system}
+timestamp=[2024-06-24 23:11:48], mode=BUILD, duration=0:00:01.153, duration_ms=1153, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-24 23:16:02], mode=PLATFORM_GENERATION, duration=0:00:06.907, duration_ms=6907, data={name=t1_p_cpp_system}
+timestamp=[2024-06-24 23:16:03], mode=BUILD, duration=0:00:01.136, duration_ms=1136, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-24 23:16:43], mode=PLATFORM_GENERATION, duration=0:00:06.824, duration_ms=6824, data={name=t1_p_cpp_system}
+timestamp=[2024-06-24 23:16:44], mode=BUILD, duration=0:00:01.088, duration_ms=1088, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-24 23:17:09], mode=PLATFORM_GENERATION, duration=0:00:07.813, duration_ms=7813, data={name=t1_p_cpp_system}
+timestamp=[2024-06-24 23:17:11], mode=BUILD, duration=0:00:01.159, duration_ms=1159, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-24 23:23:58], mode=PLATFORM_GENERATION, duration=0:00:06.842, duration_ms=6842, data={name=t1_p_cpp_system}
+timestamp=[2024-06-24 23:23:59], mode=BUILD, duration=0:00:01.090, duration_ms=1090, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-24 23:25:39], mode=PLATFORM_GENERATION, duration=0:00:06.591, duration_ms=6591, data={name=t1_p_cpp_system}
+timestamp=[2024-06-24 23:25:41], mode=BUILD, duration=0:00:02.469, duration_ms=2469, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-24 23:26:50], mode=PLATFORM_GENERATION, duration=0:00:06.735, duration_ms=6735, data={name=t1_p_cpp_system}
+timestamp=[2024-06-24 23:26:51], mode=BUILD, duration=0:00:01.146, duration_ms=1146, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-24 23:27:27], mode=BUILD, duration=0:00:00.567, duration_ms=567, data={name=t0_p_bl, configuration=Debug, clean_build=false}
+timestamp=[2024-06-24 23:27:29], mode=BUILD, duration=0:00:00.531, duration_ms=531, data={name=t0_p_bl_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-24 23:27:44], mode=PLATFORM_GENERATION, duration=0:00:06.736, duration_ms=6736, data={name=t1_p_cpp_system}
+timestamp=[2024-06-24 23:27:45], mode=BUILD, duration=0:00:01.404, duration_ms=1404, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-24 23:29:09], mode=PLATFORM_GENERATION, duration=0:00:06.711, duration_ms=6711, data={name=t1_p_cpp_system}
+timestamp=[2024-06-24 23:29:10], mode=BUILD, duration=0:00:01.143, duration_ms=1143, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-24 23:31:59], mode=PLATFORM_GENERATION, duration=0:00:06.767, duration_ms=6767, data={name=t1_p_cpp_system}
+timestamp=[2024-06-24 23:32:01], mode=BUILD, duration=0:00:01.572, duration_ms=1572, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-25 00:06:36], mode=PLATFORM_GENERATION, duration=0:00:07.426, duration_ms=7426, data={name=bd_wrapper}
+timestamp=[2024-06-25 00:06:42], mode=PLATFORM_GENERATION, duration=0:00:06.949, duration_ms=6949, data={name=t1_p_cpp_system}
+timestamp=[2024-06-25 00:06:45], mode=BUILD, duration=0:00:02.707, duration_ms=2707, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-25 00:28:49], mode=PLATFORM_GENERATION, duration=0:00:08.447, duration_ms=8447, data={name=bd_wrapper}
+timestamp=[2024-06-25 00:28:56], mode=PLATFORM_GENERATION, duration=0:00:07.530, duration_ms=7530, data={name=t1_p_cpp_system}
+timestamp=[2024-06-25 00:28:59], mode=BUILD, duration=0:00:03.103, duration_ms=3103, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-25 21:46:49], mode=WORKBENCH_START, duration=0:00:14.292, duration_ms=14292, data={}
+timestamp=[2024-06-25 21:46:49], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.309, duration_ms=309, data={}
+timestamp=[2024-06-25 21:46:50], mode=WORKBENCH_UI_INIT, duration=0:00:01.157, duration_ms=1157, data={editors_count=0, platform_editors_count=0, projects_count=9, platform_projects_count=2, active_platform_editor=false, projects=RemoteSystemsTempFiles,T0_P,T0_P_CPP,T0_P_CPP_system,T0_P_system,bd_wrapper,t0_p_bl,t0_p_bl_system,t1_p_cpp_system}
+timestamp=[2024-06-25 23:10:57], mode=PLATFORM_GENERATION, duration=0:00:15.355, duration_ms=15355, data={name=bd_wrapper}
+timestamp=[2024-06-25 23:11:04], mode=PLATFORM_GENERATION, duration=0:00:07.210, duration_ms=7210, data={name=t1_p_cpp_system}
+timestamp=[2024-06-25 23:11:09], mode=BUILD, duration=0:00:03.790, duration_ms=3790, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-27 22:02:44], mode=WORKBENCH_START, duration=0:00:18.912, duration_ms=18912, data={}
+timestamp=[2024-06-27 22:02:45], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.369, duration_ms=369, data={}
+timestamp=[2024-06-27 22:02:45], mode=WORKBENCH_UI_INIT, duration=0:00:01.448, duration_ms=1448, data={editors_count=0, platform_editors_count=0, projects_count=9, platform_projects_count=2, active_platform_editor=false, projects=RemoteSystemsTempFiles,T0_P,T0_P_CPP,T0_P_CPP_system,T0_P_system,bd_wrapper,t0_p_bl,t0_p_bl_system,t1_p_cpp_system}
+timestamp=[2024-06-27 22:06:46], mode=PLATFORM_GENERATION, duration=0:00:14.090, duration_ms=14090, data={name=bd_wrapper}
+timestamp=[2024-06-27 22:06:54], mode=PLATFORM_GENERATION, duration=0:00:07.386, duration_ms=7386, data={name=t1_p_cpp_system}
+timestamp=[2024-06-27 22:06:58], mode=BUILD, duration=0:00:04.149, duration_ms=4149, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-27 22:12:38], mode=PLATFORM_GENERATION, duration=0:00:08.271, duration_ms=8271, data={name=t1_p_cpp_system}
+timestamp=[2024-06-27 22:12:39], mode=BUILD, duration=0:00:00.445, duration_ms=445, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-27 22:16:03], mode=PLATFORM_GENERATION, duration=0:00:06.423, duration_ms=6423, data={name=t1_p_cpp_system}
+timestamp=[2024-06-27 22:16:04], mode=BUILD, duration=0:00:01.161, duration_ms=1161, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-27 22:16:43], mode=PLATFORM_GENERATION, duration=0:00:06.294, duration_ms=6294, data={name=t1_p_cpp_system}
+timestamp=[2024-06-27 22:16:44], mode=BUILD, duration=0:00:01.074, duration_ms=1074, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-27 22:17:40], mode=PLATFORM_GENERATION, duration=0:00:06.210, duration_ms=6210, data={name=t1_p_cpp_system}
+timestamp=[2024-06-27 22:17:41], mode=BUILD, duration=0:00:01.124, duration_ms=1124, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-27 22:38:21], mode=PLATFORM_GENERATION, duration=0:00:06.538, duration_ms=6538, data={name=t1_p_cpp_system}
+timestamp=[2024-06-27 22:38:22], mode=BUILD, duration=0:00:01.153, duration_ms=1153, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-27 22:46:37], mode=PLATFORM_GENERATION, duration=0:00:07.164, duration_ms=7164, data={name=t1_p_cpp_system}
+timestamp=[2024-06-27 22:46:39], mode=BUILD, duration=0:00:01.074, duration_ms=1074, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-27 22:53:47], mode=PLATFORM_GENERATION, duration=0:00:07.527, duration_ms=7527, data={name=t1_p_cpp_system}
+timestamp=[2024-06-27 22:53:48], mode=BUILD, duration=0:00:01.111, duration_ms=1111, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-27 22:56:59], mode=PLATFORM_GENERATION, duration=0:00:06.616, duration_ms=6616, data={name=t1_p_cpp_system}
+timestamp=[2024-06-27 22:57:00], mode=BUILD, duration=0:00:01.209, duration_ms=1209, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-27 23:00:19], mode=PLATFORM_GENERATION, duration=0:00:06.492, duration_ms=6492, data={name=t1_p_cpp_system}
+timestamp=[2024-06-27 23:00:20], mode=BUILD, duration=0:00:01.066, duration_ms=1066, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-27 23:01:32], mode=PLATFORM_GENERATION, duration=0:00:06.847, duration_ms=6847, data={name=t1_p_cpp_system}
+timestamp=[2024-06-27 23:01:33], mode=BUILD, duration=0:00:01.108, duration_ms=1108, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-27 23:02:04], mode=PLATFORM_GENERATION, duration=0:00:06.780, duration_ms=6780, data={name=t1_p_cpp_system}
+timestamp=[2024-06-27 23:02:05], mode=BUILD, duration=0:00:01.108, duration_ms=1108, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-27 23:03:38], mode=PLATFORM_GENERATION, duration=0:00:06.685, duration_ms=6685, data={name=t1_p_cpp_system}
+timestamp=[2024-06-27 23:03:39], mode=BUILD, duration=0:00:01.445, duration_ms=1445, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-27 23:07:03], mode=PLATFORM_GENERATION, duration=0:00:06.623, duration_ms=6623, data={name=t1_p_cpp_system}
+timestamp=[2024-06-27 23:07:05], mode=BUILD, duration=0:00:01.219, duration_ms=1219, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-27 23:07:58], mode=PLATFORM_GENERATION, duration=0:00:06.505, duration_ms=6505, data={name=t1_p_cpp_system}
+timestamp=[2024-06-27 23:07:59], mode=BUILD, duration=0:00:01.062, duration_ms=1062, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-27 23:09:02], mode=BUILD, duration=0:00:00.512, duration_ms=512, data={name=T0_P_CPP, configuration=Release, clean_build=true}
+timestamp=[2024-06-27 23:09:11], mode=PLATFORM_GENERATION, duration=0:00:06.807, duration_ms=6807, data={name=t1_p_cpp_system}
+timestamp=[2024-06-27 23:09:14], mode=BUILD, duration=0:00:02.735, duration_ms=2735, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-27 23:10:53], mode=PLATFORM_GENERATION, duration=0:00:06.819, duration_ms=6819, data={name=t1_p_cpp_system}
+timestamp=[2024-06-27 23:10:54], mode=BUILD, duration=0:00:01.069, duration_ms=1069, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-27 23:12:04], mode=PLATFORM_GENERATION, duration=0:00:06.701, duration_ms=6701, data={name=t1_p_cpp_system}
+timestamp=[2024-06-27 23:12:05], mode=BUILD, duration=0:00:01.057, duration_ms=1057, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-27 23:12:51], mode=PLATFORM_GENERATION, duration=0:00:06.603, duration_ms=6603, data={name=t1_p_cpp_system}
+timestamp=[2024-06-27 23:12:52], mode=BUILD, duration=0:00:01.170, duration_ms=1170, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-27 23:13:02], mode=PLATFORM_GENERATION, duration=0:00:06.887, duration_ms=6887, data={name=t1_p_cpp_system}
+timestamp=[2024-06-27 23:13:03], mode=BUILD, duration=0:00:01.062, duration_ms=1062, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-27 23:15:27], mode=PLATFORM_GENERATION, duration=0:00:06.708, duration_ms=6708, data={name=t1_p_cpp_system}
+timestamp=[2024-06-27 23:15:28], mode=BUILD, duration=0:00:01.058, duration_ms=1058, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-27 23:18:01], mode=PLATFORM_GENERATION, duration=0:00:06.521, duration_ms=6521, data={name=t1_p_cpp_system}
+timestamp=[2024-06-27 23:18:03], mode=BUILD, duration=0:00:01.185, duration_ms=1185, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-28 21:30:14], mode=WORKBENCH_START, duration=0:00:17.598, duration_ms=17598, data={}
+timestamp=[2024-06-28 21:30:14], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.358, duration_ms=358, data={}
+timestamp=[2024-06-28 21:30:15], mode=WORKBENCH_UI_INIT, duration=0:00:01.302, duration_ms=1302, data={editors_count=0, platform_editors_count=0, projects_count=9, platform_projects_count=2, active_platform_editor=false, projects=RemoteSystemsTempFiles,T0_P,T0_P_CPP,T0_P_CPP_system,T0_P_system,bd_wrapper,t0_p_bl,t0_p_bl_system,t1_p_cpp_system}
+timestamp=[2024-06-28 21:58:08], mode=PLATFORM_GENERATION, duration=0:00:13.792, duration_ms=13792, data={name=bd_wrapper}
+timestamp=[2024-06-28 21:58:15], mode=PLATFORM_GENERATION, duration=0:00:07.124, duration_ms=7124, data={name=t1_p_cpp_system}
+timestamp=[2024-06-28 21:58:20], mode=BUILD, duration=0:00:04.134, duration_ms=4134, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-28 21:58:32], mode=PLATFORM_GENERATION, duration=0:00:06.641, duration_ms=6641, data={name=t1_p_cpp_system}
+timestamp=[2024-06-28 21:58:33], mode=BUILD, duration=0:00:01.053, duration_ms=1053, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-28 22:14:05], mode=PLATFORM_GENERATION, duration=0:00:06.572, duration_ms=6572, data={name=t1_p_cpp_system}
+timestamp=[2024-06-28 22:14:06], mode=BUILD, duration=0:00:01.186, duration_ms=1186, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-28 22:18:06], mode=PLATFORM_GENERATION, duration=0:00:06.528, duration_ms=6528, data={name=t1_p_cpp_system}
+timestamp=[2024-06-28 22:18:07], mode=BUILD, duration=0:00:01.059, duration_ms=1059, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-28 22:23:21], mode=PLATFORM_GENERATION, duration=0:00:06.553, duration_ms=6553, data={name=t1_p_cpp_system}
+timestamp=[2024-06-28 22:23:22], mode=BUILD, duration=0:00:01.009, duration_ms=1009, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-28 22:41:43], mode=PLATFORM_GENERATION, duration=0:00:06.643, duration_ms=6643, data={name=t1_p_cpp_system}
+timestamp=[2024-06-28 22:41:44], mode=BUILD, duration=0:00:01.067, duration_ms=1067, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-28 22:41:52], mode=PLATFORM_GENERATION, duration=0:00:06.393, duration_ms=6393, data={name=t1_p_cpp_system}
+timestamp=[2024-06-28 22:41:52], mode=BUILD, duration=0:00:00.506, duration_ms=506, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-28 22:42:33], mode=PLATFORM_GENERATION, duration=0:00:06.479, duration_ms=6479, data={name=t1_p_cpp_system}
+timestamp=[2024-06-28 22:42:34], mode=BUILD, duration=0:00:01.064, duration_ms=1064, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-28 22:47:18], mode=PLATFORM_GENERATION, duration=0:00:06.633, duration_ms=6633, data={name=t1_p_cpp_system}
+timestamp=[2024-06-28 22:47:19], mode=BUILD, duration=0:00:01.080, duration_ms=1080, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-28 22:50:29], mode=PLATFORM_GENERATION, duration=0:00:06.369, duration_ms=6369, data={name=t1_p_cpp_system}
+timestamp=[2024-06-28 22:50:30], mode=BUILD, duration=0:00:01.018, duration_ms=1018, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-28 22:51:44], mode=PLATFORM_GENERATION, duration=0:00:07.920, duration_ms=7920, data={name=t1_p_cpp_system}
+timestamp=[2024-06-28 22:51:45], mode=BUILD, duration=0:00:01.063, duration_ms=1063, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-28 22:53:39], mode=PLATFORM_GENERATION, duration=0:00:06.763, duration_ms=6763, data={name=t1_p_cpp_system}
+timestamp=[2024-06-28 22:53:40], mode=BUILD, duration=0:00:01.085, duration_ms=1085, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-28 22:57:24], mode=PLATFORM_GENERATION, duration=0:00:06.651, duration_ms=6651, data={name=t1_p_cpp_system}
+timestamp=[2024-06-28 22:57:25], mode=BUILD, duration=0:00:01.086, duration_ms=1086, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-28 22:58:32], mode=PLATFORM_GENERATION, duration=0:00:06.617, duration_ms=6617, data={name=t1_p_cpp_system}
+timestamp=[2024-06-28 22:58:34], mode=BUILD, duration=0:00:01.085, duration_ms=1085, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-28 23:00:29], mode=PLATFORM_GENERATION, duration=0:00:06.499, duration_ms=6499, data={name=t1_p_cpp_system}
+timestamp=[2024-06-28 23:00:30], mode=BUILD, duration=0:00:01.083, duration_ms=1083, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-28 23:01:40], mode=PLATFORM_GENERATION, duration=0:00:06.504, duration_ms=6504, data={name=t1_p_cpp_system}
+timestamp=[2024-06-28 23:01:41], mode=BUILD, duration=0:00:01.073, duration_ms=1073, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-28 23:12:07], mode=PLATFORM_GENERATION, duration=0:00:06.761, duration_ms=6761, data={name=t1_p_cpp_system}
+timestamp=[2024-06-28 23:12:08], mode=BUILD, duration=0:00:01.076, duration_ms=1076, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-28 23:14:43], mode=PLATFORM_GENERATION, duration=0:00:06.361, duration_ms=6361, data={name=t1_p_cpp_system}
+timestamp=[2024-06-28 23:14:45], mode=BUILD, duration=0:00:01.079, duration_ms=1079, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-28 23:20:42], mode=PLATFORM_GENERATION, duration=0:00:06.557, duration_ms=6557, data={name=t1_p_cpp_system}
+timestamp=[2024-06-28 23:20:43], mode=BUILD, duration=0:00:01.077, duration_ms=1077, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-28 23:22:58], mode=PLATFORM_GENERATION, duration=0:00:06.463, duration_ms=6463, data={name=t1_p_cpp_system}
+timestamp=[2024-06-28 23:22:59], mode=BUILD, duration=0:00:01.134, duration_ms=1134, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-28 23:23:57], mode=PLATFORM_GENERATION, duration=0:00:06.549, duration_ms=6549, data={name=t1_p_cpp_system}
+timestamp=[2024-06-28 23:23:58], mode=BUILD, duration=0:00:01.130, duration_ms=1130, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-28 23:25:24], mode=PLATFORM_GENERATION, duration=0:00:06.397, duration_ms=6397, data={name=t1_p_cpp_system}
+timestamp=[2024-06-28 23:25:25], mode=BUILD, duration=0:00:01.130, duration_ms=1130, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-28 23:27:36], mode=PLATFORM_GENERATION, duration=0:00:06.574, duration_ms=6574, data={name=t1_p_cpp_system}
+timestamp=[2024-06-28 23:27:37], mode=BUILD, duration=0:00:01.070, duration_ms=1070, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-28 23:29:54], mode=PLATFORM_GENERATION, duration=0:00:06.479, duration_ms=6479, data={name=t1_p_cpp_system}
+timestamp=[2024-06-28 23:29:55], mode=BUILD, duration=0:00:01.073, duration_ms=1073, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-28 23:31:13], mode=PLATFORM_GENERATION, duration=0:00:06.560, duration_ms=6560, data={name=t1_p_cpp_system}
+timestamp=[2024-06-28 23:31:14], mode=BUILD, duration=0:00:01.072, duration_ms=1072, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-28 23:40:41], mode=PLATFORM_GENERATION, duration=0:00:06.633, duration_ms=6633, data={name=t1_p_cpp_system}
+timestamp=[2024-06-28 23:40:43], mode=BUILD, duration=0:00:01.144, duration_ms=1144, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-28 23:42:50], mode=PLATFORM_GENERATION, duration=0:00:06.615, duration_ms=6615, data={name=t1_p_cpp_system}
+timestamp=[2024-06-28 23:42:52], mode=BUILD, duration=0:00:01.130, duration_ms=1130, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-28 23:46:56], mode=PLATFORM_GENERATION, duration=0:00:06.867, duration_ms=6867, data={name=t1_p_cpp_system}
+timestamp=[2024-06-28 23:46:59], mode=BUILD, duration=0:00:02.505, duration_ms=2505, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-28 23:48:30], mode=PLATFORM_GENERATION, duration=0:00:06.648, duration_ms=6648, data={name=t1_p_cpp_system}
+timestamp=[2024-06-28 23:48:31], mode=BUILD, duration=0:00:01.085, duration_ms=1085, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-28 23:49:38], mode=PLATFORM_GENERATION, duration=0:00:06.789, duration_ms=6789, data={name=t1_p_cpp_system}
+timestamp=[2024-06-28 23:49:40], mode=BUILD, duration=0:00:01.140, duration_ms=1140, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-28 23:50:48], mode=PLATFORM_GENERATION, duration=0:00:06.651, duration_ms=6651, data={name=t1_p_cpp_system}
+timestamp=[2024-06-28 23:50:49], mode=BUILD, duration=0:00:01.139, duration_ms=1139, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-28 23:51:31], mode=PLATFORM_GENERATION, duration=0:00:06.493, duration_ms=6493, data={name=t1_p_cpp_system}
+timestamp=[2024-06-28 23:51:32], mode=BUILD, duration=0:00:01.084, duration_ms=1084, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-28 23:53:22], mode=PLATFORM_GENERATION, duration=0:00:06.667, duration_ms=6667, data={name=t1_p_cpp_system}
+timestamp=[2024-06-28 23:53:23], mode=BUILD, duration=0:00:01.209, duration_ms=1209, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-28 23:54:16], mode=PLATFORM_GENERATION, duration=0:00:06.590, duration_ms=6590, data={name=t1_p_cpp_system}
+timestamp=[2024-06-28 23:54:17], mode=BUILD, duration=0:00:01.129, duration_ms=1129, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-28 23:57:05], mode=PLATFORM_GENERATION, duration=0:00:06.524, duration_ms=6524, data={name=t1_p_cpp_system}
+timestamp=[2024-06-28 23:57:06], mode=BUILD, duration=0:00:01.090, duration_ms=1090, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-28 23:58:41], mode=PLATFORM_GENERATION, duration=0:00:06.695, duration_ms=6695, data={name=t1_p_cpp_system}
+timestamp=[2024-06-28 23:58:42], mode=BUILD, duration=0:00:01.186, duration_ms=1186, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-29 00:02:05], mode=PLATFORM_GENERATION, duration=0:00:06.630, duration_ms=6630, data={name=t1_p_cpp_system}
+timestamp=[2024-06-29 00:02:06], mode=BUILD, duration=0:00:01.133, duration_ms=1133, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-29 18:45:12], mode=WORKBENCH_START, duration=0:00:12.046, duration_ms=12046, data={}
+timestamp=[2024-06-29 18:45:13], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.269, duration_ms=269, data={}
+timestamp=[2024-06-29 18:45:13], mode=WORKBENCH_UI_INIT, duration=0:00:00.970, duration_ms=970, data={editors_count=0, platform_editors_count=0, projects_count=9, platform_projects_count=2, active_platform_editor=false, projects=RemoteSystemsTempFiles,T0_P,T0_P_CPP,T0_P_CPP_system,T0_P_system,bd_wrapper,t0_p_bl,t0_p_bl_system,t1_p_cpp_system}
+timestamp=[2024-06-29 19:00:53], mode=PLATFORM_GENERATION, duration=0:00:11.844, duration_ms=11844, data={name=bd_wrapper}
+timestamp=[2024-06-29 19:01:00], mode=PLATFORM_GENERATION, duration=0:00:06.707, duration_ms=6707, data={name=t1_p_cpp_system}
+timestamp=[2024-06-29 19:01:04], mode=BUILD, duration=0:00:03.389, duration_ms=3389, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-29 20:07:12], mode=PLATFORM_GENERATION, duration=0:00:06.568, duration_ms=6568, data={name=t1_p_cpp_system}
+timestamp=[2024-06-29 20:07:13], mode=BUILD, duration=0:00:01.069, duration_ms=1069, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-29 20:12:43], mode=PLATFORM_GENERATION, duration=0:00:06.407, duration_ms=6407, data={name=t1_p_cpp_system}
+timestamp=[2024-06-29 20:12:44], mode=BUILD, duration=0:00:01.078, duration_ms=1078, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-29 20:17:14], mode=PLATFORM_GENERATION, duration=0:00:06.582, duration_ms=6582, data={name=t1_p_cpp_system}
+timestamp=[2024-06-29 20:17:16], mode=BUILD, duration=0:00:02.432, duration_ms=2432, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-29 20:19:30], mode=PLATFORM_GENERATION, duration=0:00:06.656, duration_ms=6656, data={name=t1_p_cpp_system}
+timestamp=[2024-06-29 20:19:32], mode=BUILD, duration=0:00:01.580, duration_ms=1580, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-29 20:20:24], mode=PLATFORM_GENERATION, duration=0:00:06.670, duration_ms=6670, data={name=t1_p_cpp_system}
+timestamp=[2024-06-29 20:20:25], mode=BUILD, duration=0:00:01.082, duration_ms=1082, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-29 20:25:14], mode=PLATFORM_GENERATION, duration=0:00:06.593, duration_ms=6593, data={name=t1_p_cpp_system}
+timestamp=[2024-06-29 20:25:16], mode=BUILD, duration=0:00:01.130, duration_ms=1130, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-29 20:27:48], mode=PLATFORM_GENERATION, duration=0:00:06.427, duration_ms=6427, data={name=t1_p_cpp_system}
+timestamp=[2024-06-29 20:27:49], mode=BUILD, duration=0:00:01.079, duration_ms=1079, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-29 20:28:47], mode=PLATFORM_GENERATION, duration=0:00:06.639, duration_ms=6639, data={name=t1_p_cpp_system}
+timestamp=[2024-06-29 20:28:48], mode=BUILD, duration=0:00:01.071, duration_ms=1071, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-29 20:30:13], mode=BUILD, duration=0:00:00.564, duration_ms=564, data={name=t0_p_bl, configuration=Debug, clean_build=false}
+timestamp=[2024-06-29 20:30:14], mode=BUILD, duration=0:00:00.462, duration_ms=462, data={name=t0_p_bl_system, configuration=Debug, clean_build=false}
+timestamp=[2024-06-29 20:30:33], mode=PLATFORM_GENERATION, duration=0:00:06.604, duration_ms=6604, data={name=t1_p_cpp_system}
+timestamp=[2024-06-29 20:30:34], mode=BUILD, duration=0:00:01.122, duration_ms=1122, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-29 20:32:43], mode=PLATFORM_GENERATION, duration=0:00:06.581, duration_ms=6581, data={name=t1_p_cpp_system}
+timestamp=[2024-06-29 20:32:44], mode=BUILD, duration=0:00:01.066, duration_ms=1066, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-29 20:33:17], mode=PLATFORM_GENERATION, duration=0:00:06.597, duration_ms=6597, data={name=t1_p_cpp_system}
+timestamp=[2024-06-29 20:33:18], mode=BUILD, duration=0:00:01.114, duration_ms=1114, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-29 21:08:45], mode=PLATFORM_GENERATION, duration=0:00:06.695, duration_ms=6695, data={name=t1_p_cpp_system}
+timestamp=[2024-06-29 21:08:46], mode=BUILD, duration=0:00:01.132, duration_ms=1132, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-29 21:13:24], mode=PLATFORM_GENERATION, duration=0:00:06.684, duration_ms=6684, data={name=t1_p_cpp_system}
+timestamp=[2024-06-29 21:13:25], mode=BUILD, duration=0:00:01.235, duration_ms=1235, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-29 23:48:44], mode=PLATFORM_GENERATION, duration=0:00:06.929, duration_ms=6929, data={name=t1_p_cpp_system}
+timestamp=[2024-06-29 23:48:45], mode=BUILD, duration=0:00:01.216, duration_ms=1216, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-29 23:49:11], mode=PLATFORM_GENERATION, duration=0:00:07.254, duration_ms=7254, data={name=t1_p_cpp_system}
+timestamp=[2024-06-29 23:49:12], mode=BUILD, duration=0:00:01.448, duration_ms=1448, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-29 23:49:45], mode=PLATFORM_GENERATION, duration=0:00:06.907, duration_ms=6907, data={name=t1_p_cpp_system}
+timestamp=[2024-06-29 23:49:46], mode=BUILD, duration=0:00:00.606, duration_ms=606, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-29 23:50:12], mode=PLATFORM_GENERATION, duration=0:00:07.035, duration_ms=7035, data={name=t1_p_cpp_system}
+timestamp=[2024-06-29 23:50:13], mode=BUILD, duration=0:00:01.319, duration_ms=1319, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-29 23:50:49], mode=PLATFORM_GENERATION, duration=0:00:07.058, duration_ms=7058, data={name=t1_p_cpp_system}
+timestamp=[2024-06-29 23:50:51], mode=BUILD, duration=0:00:01.392, duration_ms=1392, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-29 23:51:14], mode=BUILD, duration=0:00:00.663, duration_ms=663, data={name=T0_P_CPP, configuration=Release, clean_build=true}
+timestamp=[2024-06-29 23:51:22], mode=PLATFORM_GENERATION, duration=0:00:07.120, duration_ms=7120, data={name=t1_p_cpp_system}
+timestamp=[2024-06-29 23:51:25], mode=BUILD, duration=0:00:03.747, duration_ms=3747, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-29 23:52:00], mode=PLATFORM_GENERATION, duration=0:00:07.101, duration_ms=7101, data={name=t1_p_cpp_system}
+timestamp=[2024-06-29 23:52:01], mode=BUILD, duration=0:00:01.258, duration_ms=1258, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-29 23:53:13], mode=PLATFORM_GENERATION, duration=0:00:07.110, duration_ms=7110, data={name=t1_p_cpp_system}
+timestamp=[2024-06-29 23:53:14], mode=BUILD, duration=0:00:01.320, duration_ms=1320, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-29 23:54:16], mode=PLATFORM_GENERATION, duration=0:00:06.869, duration_ms=6869, data={name=t1_p_cpp_system}
+timestamp=[2024-06-29 23:54:18], mode=BUILD, duration=0:00:01.278, duration_ms=1278, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-29 23:55:30], mode=PLATFORM_GENERATION, duration=0:00:07.012, duration_ms=7012, data={name=t1_p_cpp_system}
+timestamp=[2024-06-29 23:55:31], mode=BUILD, duration=0:00:01.204, duration_ms=1204, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-30 11:05:09], mode=WORKBENCH_START, duration=0:00:14.855, duration_ms=14855, data={}
+timestamp=[2024-06-30 11:05:10], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.252, duration_ms=252, data={}
+timestamp=[2024-06-30 11:05:10], mode=WORKBENCH_UI_INIT, duration=0:00:01.125, duration_ms=1125, data={editors_count=0, platform_editors_count=0, projects_count=9, platform_projects_count=2, active_platform_editor=false, projects=RemoteSystemsTempFiles,T0_P,T0_P_CPP,T0_P_CPP_system,T0_P_system,bd_wrapper,t0_p_bl,t0_p_bl_system,t1_p_cpp_system}
+timestamp=[2024-06-30 15:33:08], mode=PLATFORM_GENERATION, duration=0:00:14.387, duration_ms=14387, data={name=bd_wrapper}
+timestamp=[2024-06-30 15:33:17], mode=PLATFORM_GENERATION, duration=0:00:08.818, duration_ms=8818, data={name=t1_p_cpp_system}
+timestamp=[2024-06-30 15:33:21], mode=BUILD, duration=0:00:03.339, duration_ms=3339, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-30 15:34:08], mode=PLATFORM_GENERATION, duration=0:00:07.022, duration_ms=7022, data={name=t1_p_cpp_system}
+timestamp=[2024-06-30 15:34:09], mode=BUILD, duration=0:00:01.500, duration_ms=1500, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-30 15:34:24], mode=PLATFORM_GENERATION, duration=0:00:08.220, duration_ms=8220, data={name=t1_p_cpp_system}
+timestamp=[2024-06-30 15:34:25], mode=BUILD, duration=0:00:00.818, duration_ms=818, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-30 15:36:22], mode=PLATFORM_GENERATION, duration=0:00:07.120, duration_ms=7120, data={name=t1_p_cpp_system}
+timestamp=[2024-06-30 15:36:26], mode=BUILD, duration=0:00:03.408, duration_ms=3408, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-30 15:39:22], mode=PLATFORM_GENERATION, duration=0:00:07.093, duration_ms=7093, data={name=t1_p_cpp_system}
+timestamp=[2024-06-30 15:39:23], mode=BUILD, duration=0:00:00.726, duration_ms=726, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-30 15:39:39], mode=PLATFORM_GENERATION, duration=0:00:07.049, duration_ms=7049, data={name=t1_p_cpp_system}
+timestamp=[2024-06-30 15:39:40], mode=BUILD, duration=0:00:00.785, duration_ms=785, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-30 15:40:01], mode=PLATFORM_GENERATION, duration=0:00:06.925, duration_ms=6925, data={name=t1_p_cpp_system}
+timestamp=[2024-06-30 15:40:02], mode=BUILD, duration=0:00:00.649, duration_ms=649, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-30 15:40:28], mode=PLATFORM_GENERATION, duration=0:00:06.918, duration_ms=6918, data={name=t1_p_cpp_system}
+timestamp=[2024-06-30 15:40:29], mode=BUILD, duration=0:00:00.926, duration_ms=926, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-30 16:06:26], mode=PLATFORM_GENERATION, duration=0:00:06.966, duration_ms=6966, data={name=t1_p_cpp_system}
+timestamp=[2024-06-30 16:06:29], mode=BUILD, duration=0:00:02.771, duration_ms=2771, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-30 16:09:44], mode=PLATFORM_GENERATION, duration=0:00:06.973, duration_ms=6973, data={name=t1_p_cpp_system}
+timestamp=[2024-06-30 16:09:45], mode=BUILD, duration=0:00:00.919, duration_ms=919, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-30 16:11:11], mode=PLATFORM_GENERATION, duration=0:00:06.971, duration_ms=6971, data={name=t1_p_cpp_system}
+timestamp=[2024-06-30 16:11:14], mode=BUILD, duration=0:00:03.138, duration_ms=3138, data={name=T0_P_CPP, configuration=Debug, clean_build=false}
+timestamp=[2024-06-30 16:12:27], mode=PLATFORM_GENERATION, duration=0:00:07.222, duration_ms=7222, data={name=t1_p_cpp_system}
+timestamp=[2024-06-30 16:12:28], mode=BUILD, duration=0:00:01.164, duration_ms=1164, data={name=T0_P_CPP, configuration=Debug, clean_build=false}
+timestamp=[2024-06-30 16:15:09], mode=PLATFORM_GENERATION, duration=0:00:07.762, duration_ms=7762, data={name=t1_p_cpp_system}
+timestamp=[2024-06-30 16:15:10], mode=BUILD, duration=0:00:01.432, duration_ms=1432, data={name=T0_P_CPP, configuration=Debug, clean_build=false}
+timestamp=[2024-06-30 16:15:48], mode=PLATFORM_GENERATION, duration=0:00:07.382, duration_ms=7382, data={name=t1_p_cpp_system}
+timestamp=[2024-06-30 16:15:49], mode=BUILD, duration=0:00:01.488, duration_ms=1488, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-30 16:17:55], mode=PLATFORM_GENERATION, duration=0:00:07.009, duration_ms=7009, data={name=t1_p_cpp_system}
+timestamp=[2024-06-30 16:17:57], mode=BUILD, duration=0:00:01.051, duration_ms=1051, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-30 16:51:32], mode=PLATFORM_GENERATION, duration=0:00:07.167, duration_ms=7167, data={name=t1_p_cpp_system}
+timestamp=[2024-06-30 16:51:35], mode=BUILD, duration=0:00:02.977, duration_ms=2977, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-30 16:52:00], mode=PLATFORM_GENERATION, duration=0:00:08.220, duration_ms=8220, data={name=t1_p_cpp_system}
+timestamp=[2024-06-30 16:52:02], mode=BUILD, duration=0:00:01.826, duration_ms=1826, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-30 16:57:11], mode=PLATFORM_GENERATION, duration=0:00:07.730, duration_ms=7730, data={name=t1_p_cpp_system}
+timestamp=[2024-06-30 16:57:14], mode=BUILD, duration=0:00:02.895, duration_ms=2895, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-30 17:00:04], mode=PLATFORM_GENERATION, duration=0:00:07.205, duration_ms=7205, data={name=t1_p_cpp_system}
+timestamp=[2024-06-30 17:00:05], mode=BUILD, duration=0:00:01.320, duration_ms=1320, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-30 17:02:38], mode=PLATFORM_GENERATION, duration=0:00:07.464, duration_ms=7464, data={name=t1_p_cpp_system}
+timestamp=[2024-06-30 17:02:39], mode=BUILD, duration=0:00:01.327, duration_ms=1327, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-30 17:05:57], mode=PLATFORM_GENERATION, duration=0:00:07.107, duration_ms=7107, data={name=t1_p_cpp_system}
+timestamp=[2024-06-30 17:05:58], mode=BUILD, duration=0:00:01.477, duration_ms=1477, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-30 17:07:36], mode=PLATFORM_GENERATION, duration=0:00:07.089, duration_ms=7089, data={name=t1_p_cpp_system}
+timestamp=[2024-06-30 17:07:37], mode=BUILD, duration=0:00:01.022, duration_ms=1022, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-30 17:09:56], mode=PLATFORM_GENERATION, duration=0:00:07.157, duration_ms=7157, data={name=t1_p_cpp_system}
+timestamp=[2024-06-30 17:09:57], mode=BUILD, duration=0:00:01.429, duration_ms=1429, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-30 21:21:10], mode=PLATFORM_GENERATION, duration=0:00:07.669, duration_ms=7669, data={name=t1_p_cpp_system}
+timestamp=[2024-06-30 21:21:13], mode=BUILD, duration=0:00:03.014, duration_ms=3014, data={name=T0_P_CPP, configuration=Debug, clean_build=false}
+timestamp=[2024-06-30 21:31:45], mode=PLATFORM_GENERATION, duration=0:00:09.590, duration_ms=9590, data={name=t1_p_cpp_system}
+timestamp=[2024-06-30 21:31:46], mode=BUILD, duration=0:00:01.080, duration_ms=1080, data={name=T0_P_CPP, configuration=Release, clean_build=true}
+timestamp=[2024-06-30 21:31:51], mode=BUILD, duration=0:00:04.645, duration_ms=4645, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-30 21:32:50], mode=PLATFORM_GENERATION, duration=0:00:08.085, duration_ms=8085, data={name=t1_p_cpp_system}
+timestamp=[2024-06-30 21:32:52], mode=BUILD, duration=0:00:01.080, duration_ms=1080, data={name=T0_P_CPP, configuration=Release, clean_build=true}
+timestamp=[2024-06-30 21:32:56], mode=BUILD, duration=0:00:04.567, duration_ms=4567, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-30 21:40:07], mode=PLATFORM_GENERATION, duration=0:00:07.886, duration_ms=7886, data={name=t1_p_cpp_system}
+timestamp=[2024-06-30 21:40:08], mode=BUILD, duration=0:00:01.272, duration_ms=1272, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-30 21:40:59], mode=PLATFORM_GENERATION, duration=0:00:08.078, duration_ms=8078, data={name=t1_p_cpp_system}
+timestamp=[2024-06-30 21:41:00], mode=BUILD, duration=0:00:01.272, duration_ms=1272, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-30 22:24:59], mode=PLATFORM_GENERATION, duration=0:00:08.800, duration_ms=8800, data={name=t1_p_cpp_system}
+timestamp=[2024-06-30 22:25:01], mode=BUILD, duration=0:00:01.678, duration_ms=1678, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-30 23:28:08], mode=PLATFORM_GENERATION, duration=0:00:07.984, duration_ms=7984, data={name=t1_p_cpp_system}
+timestamp=[2024-06-30 23:28:12], mode=BUILD, duration=0:00:03.381, duration_ms=3381, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-30 23:31:46], mode=PLATFORM_GENERATION, duration=0:00:08.148, duration_ms=8148, data={name=t1_p_cpp_system}
+timestamp=[2024-06-30 23:31:50], mode=BUILD, duration=0:00:03.631, duration_ms=3631, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-30 23:33:51], mode=PLATFORM_GENERATION, duration=0:00:07.939, duration_ms=7939, data={name=t1_p_cpp_system}
+timestamp=[2024-06-30 23:33:52], mode=BUILD, duration=0:00:00.980, duration_ms=980, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-30 23:34:34], mode=PLATFORM_GENERATION, duration=0:00:07.798, duration_ms=7798, data={name=t1_p_cpp_system}
+timestamp=[2024-06-30 23:34:35], mode=BUILD, duration=0:00:00.993, duration_ms=993, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-30 23:35:04], mode=PLATFORM_GENERATION, duration=0:00:07.863, duration_ms=7863, data={name=t1_p_cpp_system}
+timestamp=[2024-06-30 23:35:06], mode=BUILD, duration=0:00:01.736, duration_ms=1736, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-30 23:37:47], mode=PLATFORM_GENERATION, duration=0:00:08.266, duration_ms=8266, data={name=t1_p_cpp_system}
+timestamp=[2024-06-30 23:37:49], mode=BUILD, duration=0:00:01.704, duration_ms=1704, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-30 23:41:18], mode=PLATFORM_GENERATION, duration=0:00:08.150, duration_ms=8150, data={name=t1_p_cpp_system}
+timestamp=[2024-06-30 23:41:20], mode=BUILD, duration=0:00:01.694, duration_ms=1694, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-30 23:44:26], mode=PLATFORM_GENERATION, duration=0:00:08.158, duration_ms=8158, data={name=t1_p_cpp_system}
+timestamp=[2024-06-30 23:44:28], mode=BUILD, duration=0:00:01.693, duration_ms=1693, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-30 23:48:39], mode=PLATFORM_GENERATION, duration=0:00:07.972, duration_ms=7972, data={name=t1_p_cpp_system}
+timestamp=[2024-06-30 23:48:40], mode=BUILD, duration=0:00:00.797, duration_ms=797, data={name=T0_P_CPP, configuration=Debug, clean_build=true}
+timestamp=[2024-06-30 23:48:44], mode=BUILD, duration=0:00:03.491, duration_ms=3491, data={name=T0_P_CPP, configuration=Debug, clean_build=false}
+timestamp=[2024-06-30 23:52:44], mode=PLATFORM_GENERATION, duration=0:00:08.006, duration_ms=8006, data={name=t1_p_cpp_system}
+timestamp=[2024-06-30 23:52:45], mode=BUILD, duration=0:00:00.798, duration_ms=798, data={name=T0_P_CPP, configuration=Release, clean_build=true}
+timestamp=[2024-06-30 23:52:48], mode=BUILD, duration=0:00:03.344, duration_ms=3344, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-06-30 23:54:05], mode=PLATFORM_GENERATION, duration=0:00:07.873, duration_ms=7873, data={name=t1_p_cpp_system}
+timestamp=[2024-06-30 23:54:06], mode=BUILD, duration=0:00:00.827, duration_ms=827, data={name=T0_P_CPP, configuration=Release, clean_build=true}
+timestamp=[2024-06-30 23:54:09], mode=BUILD, duration=0:00:02.977, duration_ms=2977, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-02 21:31:38], mode=WORKBENCH_START, duration=0:00:14.445, duration_ms=14445, data={}
+timestamp=[2024-07-02 21:31:38], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.314, duration_ms=314, data={}
+timestamp=[2024-07-02 21:31:39], mode=WORKBENCH_UI_INIT, duration=0:00:01.351, duration_ms=1351, data={editors_count=9, platform_editors_count=3, projects_count=9, platform_projects_count=2, active_platform_editor=false, projects=RemoteSystemsTempFiles,T0_P,T0_P_CPP,T0_P_CPP_system,T0_P_system,bd_wrapper,t0_p_bl,t0_p_bl_system,t1_p_cpp_system}
+timestamp=[2024-07-02 21:32:04], mode=PLATFORM_GENERATION, duration=0:00:19.538, duration_ms=19538, data={name=bd_wrapper}
+timestamp=[2024-07-02 21:32:11], mode=PLATFORM_GENERATION, duration=0:00:06.987, duration_ms=6987, data={name=t1_p_cpp_system}
+timestamp=[2024-07-02 21:32:16], mode=BUILD, duration=0:00:04.859, duration_ms=4859, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-02 22:15:57], mode=PLATFORM_GENERATION, duration=0:00:06.872, duration_ms=6872, data={name=t1_p_cpp_system}
+timestamp=[2024-07-02 22:15:58], mode=BUILD, duration=0:00:00.790, duration_ms=790, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-02 22:17:56], mode=PLATFORM_GENERATION, duration=0:00:06.261, duration_ms=6261, data={name=t1_p_cpp_system}
+timestamp=[2024-07-02 22:17:57], mode=BUILD, duration=0:00:00.933, duration_ms=933, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-02 22:22:00], mode=PLATFORM_GENERATION, duration=0:00:06.461, duration_ms=6461, data={name=t1_p_cpp_system}
+timestamp=[2024-07-02 22:22:01], mode=BUILD, duration=0:00:00.926, duration_ms=926, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-02 22:24:01], mode=PLATFORM_GENERATION, duration=0:00:06.448, duration_ms=6448, data={name=t1_p_cpp_system}
+timestamp=[2024-07-02 22:24:02], mode=BUILD, duration=0:00:00.986, duration_ms=986, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-02 22:52:57], mode=PLATFORM_GENERATION, duration=0:00:06.464, duration_ms=6464, data={name=t1_p_cpp_system}
+timestamp=[2024-07-02 22:52:59], mode=BUILD, duration=0:00:02.485, duration_ms=2485, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-02 22:55:54], mode=PLATFORM_GENERATION, duration=0:00:06.440, duration_ms=6440, data={name=t1_p_cpp_system}
+timestamp=[2024-07-02 22:55:55], mode=BUILD, duration=0:00:00.931, duration_ms=931, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-02 23:00:05], mode=PLATFORM_GENERATION, duration=0:00:06.522, duration_ms=6522, data={name=t1_p_cpp_system}
+timestamp=[2024-07-02 23:00:06], mode=BUILD, duration=0:00:00.936, duration_ms=936, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-02 23:00:51], mode=PLATFORM_GENERATION, duration=0:00:06.403, duration_ms=6403, data={name=t1_p_cpp_system}
+timestamp=[2024-07-02 23:00:52], mode=BUILD, duration=0:00:00.535, duration_ms=535, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-02 23:05:29], mode=PLATFORM_GENERATION, duration=0:00:06.529, duration_ms=6529, data={name=t1_p_cpp_system}
+timestamp=[2024-07-02 23:05:30], mode=BUILD, duration=0:00:00.933, duration_ms=933, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-02 23:06:48], mode=PLATFORM_GENERATION, duration=0:00:06.470, duration_ms=6470, data={name=t1_p_cpp_system}
+timestamp=[2024-07-02 23:06:49], mode=BUILD, duration=0:00:01.091, duration_ms=1091, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-02 23:25:07], mode=PLATFORM_GENERATION, duration=0:00:07.297, duration_ms=7297, data={name=t1_p_cpp_system}
+timestamp=[2024-07-02 23:25:10], mode=BUILD, duration=0:00:02.991, duration_ms=2991, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-02 23:47:16], mode=PLATFORM_GENERATION, duration=0:00:08.170, duration_ms=8170, data={name=bd_wrapper}
+timestamp=[2024-07-02 23:47:22], mode=PLATFORM_GENERATION, duration=0:00:06.726, duration_ms=6726, data={name=t1_p_cpp_system}
+timestamp=[2024-07-02 23:47:25], mode=BUILD, duration=0:00:02.542, duration_ms=2542, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-02 23:48:28], mode=PLATFORM_GENERATION, duration=0:00:06.962, duration_ms=6962, data={name=t1_p_cpp_system}
+timestamp=[2024-07-02 23:48:29], mode=BUILD, duration=0:00:01.015, duration_ms=1015, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-02 23:51:32], mode=PLATFORM_GENERATION, duration=0:00:06.840, duration_ms=6840, data={name=t1_p_cpp_system}
+timestamp=[2024-07-02 23:51:33], mode=BUILD, duration=0:00:01.109, duration_ms=1109, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-04 20:21:14], mode=WORKBENCH_START, duration=0:00:16.396, duration_ms=16396, data={}
+timestamp=[2024-07-04 20:21:14], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.336, duration_ms=336, data={}
+timestamp=[2024-07-04 20:21:15], mode=WORKBENCH_UI_INIT, duration=0:00:01.457, duration_ms=1457, data={editors_count=9, platform_editors_count=3, projects_count=9, platform_projects_count=2, active_platform_editor=false, projects=RemoteSystemsTempFiles,T0_P,T0_P_CPP,T0_P_CPP_system,T0_P_system,bd_wrapper,t0_p_bl,t0_p_bl_system,t1_p_cpp_system}
+timestamp=[2024-07-04 21:42:28], mode=PLATFORM_GENERATION, duration=0:00:12.907, duration_ms=12907, data={name=bd_wrapper}
+timestamp=[2024-07-04 21:42:35], mode=PLATFORM_GENERATION, duration=0:00:06.950, duration_ms=6950, data={name=t1_p_cpp_system}
+timestamp=[2024-07-04 21:42:40], mode=BUILD, duration=0:00:04.307, duration_ms=4307, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-04 21:45:25], mode=PLATFORM_GENERATION, duration=0:00:06.778, duration_ms=6778, data={name=t1_p_cpp_system}
+timestamp=[2024-07-04 21:45:28], mode=BUILD, duration=0:00:02.392, duration_ms=2392, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-04 21:46:28], mode=PLATFORM_GENERATION, duration=0:00:06.591, duration_ms=6591, data={name=t1_p_cpp_system}
+timestamp=[2024-07-04 21:46:31], mode=BUILD, duration=0:00:02.355, duration_ms=2355, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-04 21:50:38], mode=PLATFORM_GENERATION, duration=0:00:06.775, duration_ms=6775, data={name=t1_p_cpp_system}
+timestamp=[2024-07-04 21:50:39], mode=BUILD, duration=0:00:00.652, duration_ms=652, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-04 21:58:29], mode=PLATFORM_GENERATION, duration=0:00:06.843, duration_ms=6843, data={name=t1_p_cpp_system}
+timestamp=[2024-07-04 21:58:30], mode=BUILD, duration=0:00:00.846, duration_ms=846, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-04 22:00:35], mode=PLATFORM_GENERATION, duration=0:00:06.748, duration_ms=6748, data={name=t1_p_cpp_system}
+timestamp=[2024-07-04 22:00:37], mode=BUILD, duration=0:00:01.052, duration_ms=1052, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-04 22:00:55], mode=PLATFORM_GENERATION, duration=0:00:06.442, duration_ms=6442, data={name=t1_p_cpp_system}
+timestamp=[2024-07-04 22:00:58], mode=BUILD, duration=0:00:02.622, duration_ms=2622, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-04 22:04:47], mode=PLATFORM_GENERATION, duration=0:00:06.628, duration_ms=6628, data={name=t1_p_cpp_system}
+timestamp=[2024-07-04 22:04:47], mode=BUILD, duration=0:00:00.899, duration_ms=899, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-04 22:06:57], mode=PLATFORM_GENERATION, duration=0:00:06.644, duration_ms=6644, data={name=t1_p_cpp_system}
+timestamp=[2024-07-04 22:06:58], mode=BUILD, duration=0:00:01.277, duration_ms=1277, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-04 22:08:17], mode=PLATFORM_GENERATION, duration=0:00:06.725, duration_ms=6725, data={name=t1_p_cpp_system}
+timestamp=[2024-07-04 22:08:18], mode=BUILD, duration=0:00:00.893, duration_ms=893, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-04 23:30:06], mode=PLATFORM_GENERATION, duration=0:00:07.195, duration_ms=7195, data={name=t1_p_cpp_system}
+timestamp=[2024-07-04 23:30:07], mode=BUILD, duration=0:00:00.979, duration_ms=979, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-04 23:35:40], mode=PLATFORM_GENERATION, duration=0:00:06.950, duration_ms=6950, data={name=t1_p_cpp_system}
+timestamp=[2024-07-04 23:35:42], mode=BUILD, duration=0:00:01.426, duration_ms=1426, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-04 23:43:52], mode=PLATFORM_GENERATION, duration=0:00:07.003, duration_ms=7003, data={name=t1_p_cpp_system}
+timestamp=[2024-07-04 23:43:53], mode=BUILD, duration=0:00:01.024, duration_ms=1024, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-04 23:45:55], mode=PLATFORM_GENERATION, duration=0:00:07.370, duration_ms=7370, data={name=t1_p_cpp_system}
+timestamp=[2024-07-04 23:45:56], mode=BUILD, duration=0:00:01.085, duration_ms=1085, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-04 23:50:08], mode=PLATFORM_GENERATION, duration=0:00:07.175, duration_ms=7175, data={name=t1_p_cpp_system}
+timestamp=[2024-07-04 23:50:09], mode=BUILD, duration=0:00:01.113, duration_ms=1113, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-04 23:55:21], mode=PLATFORM_GENERATION, duration=0:00:07.094, duration_ms=7094, data={name=t1_p_cpp_system}
+timestamp=[2024-07-04 23:55:22], mode=BUILD, duration=0:00:01.076, duration_ms=1076, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-05 00:00:54], mode=PLATFORM_GENERATION, duration=0:00:06.801, duration_ms=6801, data={name=t1_p_cpp_system}
+timestamp=[2024-07-05 00:00:55], mode=BUILD, duration=0:00:01.077, duration_ms=1077, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-05 00:01:53], mode=PLATFORM_GENERATION, duration=0:00:07.153, duration_ms=7153, data={name=t1_p_cpp_system}
+timestamp=[2024-07-05 00:01:54], mode=BUILD, duration=0:00:01.025, duration_ms=1025, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-05 00:02:27], mode=PLATFORM_GENERATION, duration=0:00:07.199, duration_ms=7199, data={name=t1_p_cpp_system}
+timestamp=[2024-07-05 00:02:28], mode=BUILD, duration=0:00:00.929, duration_ms=929, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-05 00:03:12], mode=PLATFORM_GENERATION, duration=0:00:06.817, duration_ms=6817, data={name=t1_p_cpp_system}
+timestamp=[2024-07-05 00:03:13], mode=BUILD, duration=0:00:00.978, duration_ms=978, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-05 00:03:47], mode=PLATFORM_GENERATION, duration=0:00:06.646, duration_ms=6646, data={name=t1_p_cpp_system}
+timestamp=[2024-07-05 00:03:48], mode=BUILD, duration=0:00:00.934, duration_ms=934, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-05 00:04:17], mode=PLATFORM_GENERATION, duration=0:00:07.013, duration_ms=7013, data={name=t1_p_cpp_system}
+timestamp=[2024-07-05 00:04:18], mode=BUILD, duration=0:00:00.886, duration_ms=886, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-05 00:04:58], mode=PLATFORM_GENERATION, duration=0:00:06.761, duration_ms=6761, data={name=t1_p_cpp_system}
+timestamp=[2024-07-05 00:04:59], mode=BUILD, duration=0:00:01.032, duration_ms=1032, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-05 00:06:48], mode=PLATFORM_GENERATION, duration=0:00:07.461, duration_ms=7461, data={name=t1_p_cpp_system}
+timestamp=[2024-07-05 00:06:48], mode=BUILD, duration=0:00:00.584, duration_ms=584, data={name=T0_P_CPP, configuration=Release, clean_build=true}
+timestamp=[2024-07-05 00:06:52], mode=BUILD, duration=0:00:03.343, duration_ms=3343, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-05 18:53:23], mode=WORKBENCH_START, duration=0:00:15.091, duration_ms=15091, data={}
+timestamp=[2024-07-05 18:53:24], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.871, duration_ms=871, data={}
+timestamp=[2024-07-05 18:53:25], mode=WORKBENCH_UI_INIT, duration=0:00:02.495, duration_ms=2495, data={editors_count=8, platform_editors_count=3, projects_count=9, platform_projects_count=2, active_platform_editor=false, projects=RemoteSystemsTempFiles,T0_P,T0_P_CPP,T0_P_CPP_system,T0_P_system,bd_wrapper,t0_p_bl,t0_p_bl_system,t1_p_cpp_system}
+timestamp=[2024-07-05 19:00:55], mode=PLATFORM_GENERATION, duration=0:00:12.692, duration_ms=12692, data={name=bd_wrapper}
+timestamp=[2024-07-05 19:01:02], mode=PLATFORM_GENERATION, duration=0:00:07.102, duration_ms=7102, data={name=t1_p_cpp_system}
+timestamp=[2024-07-05 19:01:03], mode=BUILD, duration=0:00:00.735, duration_ms=735, data={name=T0_P_CPP, configuration=Release, clean_build=true}
+timestamp=[2024-07-05 19:01:08], mode=BUILD, duration=0:00:04.798, duration_ms=4798, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-05 19:01:19], mode=PLATFORM_GENERATION, duration=0:00:07.209, duration_ms=7209, data={name=t1_p_cpp_system}
+timestamp=[2024-07-05 19:01:21], mode=BUILD, duration=0:00:01.184, duration_ms=1184, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-05 19:28:34], mode=PLATFORM_GENERATION, duration=0:00:06.506, duration_ms=6506, data={name=t1_p_cpp_system}
+timestamp=[2024-07-05 19:28:36], mode=BUILD, duration=0:00:02.387, duration_ms=2387, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-05 19:34:39], mode=PLATFORM_GENERATION, duration=0:00:06.626, duration_ms=6626, data={name=t1_p_cpp_system}
+timestamp=[2024-07-05 19:34:40], mode=BUILD, duration=0:00:00.929, duration_ms=929, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-05 21:58:45], mode=PLATFORM_GENERATION, duration=0:00:06.753, duration_ms=6753, data={name=t1_p_cpp_system}
+timestamp=[2024-07-05 21:58:46], mode=BUILD, duration=0:00:01.015, duration_ms=1015, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-05 22:02:51], mode=PLATFORM_GENERATION, duration=0:00:06.806, duration_ms=6806, data={name=t1_p_cpp_system}
+timestamp=[2024-07-05 22:02:52], mode=BUILD, duration=0:00:00.965, duration_ms=965, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-05 22:06:46], mode=PLATFORM_GENERATION, duration=0:00:06.819, duration_ms=6819, data={name=t1_p_cpp_system}
+timestamp=[2024-07-05 22:06:47], mode=BUILD, duration=0:00:00.963, duration_ms=963, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-05 22:07:21], mode=PLATFORM_GENERATION, duration=0:00:06.524, duration_ms=6524, data={name=t1_p_cpp_system}
+timestamp=[2024-07-05 22:07:22], mode=BUILD, duration=0:00:00.547, duration_ms=547, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-05 22:15:22], mode=PLATFORM_GENERATION, duration=0:00:06.782, duration_ms=6782, data={name=t1_p_cpp_system}
+timestamp=[2024-07-05 22:15:23], mode=BUILD, duration=0:00:01.137, duration_ms=1137, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-05 22:40:49], mode=PLATFORM_GENERATION, duration=0:00:06.944, duration_ms=6944, data={name=t1_p_cpp_system}
+timestamp=[2024-07-05 22:40:52], mode=BUILD, duration=0:00:02.487, duration_ms=2487, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-05 22:41:28], mode=PLATFORM_GENERATION, duration=0:00:06.685, duration_ms=6685, data={name=t1_p_cpp_system}
+timestamp=[2024-07-05 22:41:29], mode=BUILD, duration=0:00:01.021, duration_ms=1021, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-05 22:42:46], mode=PLATFORM_GENERATION, duration=0:00:06.833, duration_ms=6833, data={name=t1_p_cpp_system}
+timestamp=[2024-07-05 22:42:47], mode=BUILD, duration=0:00:01.035, duration_ms=1035, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-05 22:49:05], mode=PLATFORM_GENERATION, duration=0:00:07.313, duration_ms=7313, data={name=t1_p_cpp_system}
+timestamp=[2024-07-05 22:49:07], mode=BUILD, duration=0:00:01.227, duration_ms=1227, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-05 22:53:42], mode=PLATFORM_GENERATION, duration=0:00:06.653, duration_ms=6653, data={name=t1_p_cpp_system}
+timestamp=[2024-07-05 22:53:43], mode=BUILD, duration=0:00:01.028, duration_ms=1028, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-05 23:02:26], mode=PLATFORM_GENERATION, duration=0:00:06.762, duration_ms=6762, data={name=t1_p_cpp_system}
+timestamp=[2024-07-05 23:02:27], mode=BUILD, duration=0:00:01.034, duration_ms=1034, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-05 23:09:34], mode=PLATFORM_GENERATION, duration=0:00:06.858, duration_ms=6858, data={name=t1_p_cpp_system}
+timestamp=[2024-07-05 23:09:36], mode=BUILD, duration=0:00:02.510, duration_ms=2510, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-05 23:14:51], mode=PLATFORM_GENERATION, duration=0:00:07.071, duration_ms=7071, data={name=t1_p_cpp_system}
+timestamp=[2024-07-05 23:14:52], mode=BUILD, duration=0:00:01.035, duration_ms=1035, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-05 23:17:13], mode=PLATFORM_GENERATION, duration=0:00:06.734, duration_ms=6734, data={name=t1_p_cpp_system}
+timestamp=[2024-07-05 23:17:14], mode=BUILD, duration=0:00:01.037, duration_ms=1037, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-05 23:29:31], mode=PLATFORM_GENERATION, duration=0:00:07.033, duration_ms=7033, data={name=t1_p_cpp_system}
+timestamp=[2024-07-05 23:29:32], mode=BUILD, duration=0:00:00.776, duration_ms=776, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-05 23:30:00], mode=PLATFORM_GENERATION, duration=0:00:06.743, duration_ms=6743, data={name=t1_p_cpp_system}
+timestamp=[2024-07-05 23:30:01], mode=BUILD, duration=0:00:00.795, duration_ms=795, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-05 23:30:32], mode=PLATFORM_GENERATION, duration=0:00:06.856, duration_ms=6856, data={name=t1_p_cpp_system}
+timestamp=[2024-07-05 23:30:33], mode=BUILD, duration=0:00:01.051, duration_ms=1051, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-05 23:36:58], mode=PLATFORM_GENERATION, duration=0:00:06.875, duration_ms=6875, data={name=t1_p_cpp_system}
+timestamp=[2024-07-05 23:36:59], mode=BUILD, duration=0:00:01.159, duration_ms=1159, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-05 23:38:54], mode=PLATFORM_GENERATION, duration=0:00:06.856, duration_ms=6856, data={name=t1_p_cpp_system}
+timestamp=[2024-07-05 23:38:55], mode=BUILD, duration=0:00:01.100, duration_ms=1100, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-05 23:39:28], mode=PLATFORM_GENERATION, duration=0:00:07.099, duration_ms=7099, data={name=t1_p_cpp_system}
+timestamp=[2024-07-05 23:39:30], mode=BUILD, duration=0:00:01.092, duration_ms=1092, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-05 23:39:54], mode=PLATFORM_GENERATION, duration=0:00:07.026, duration_ms=7026, data={name=t1_p_cpp_system}
+timestamp=[2024-07-05 23:39:55], mode=BUILD, duration=0:00:01.069, duration_ms=1069, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-05 23:44:29], mode=PLATFORM_GENERATION, duration=0:00:06.960, duration_ms=6960, data={name=t1_p_cpp_system}
+timestamp=[2024-07-05 23:44:30], mode=BUILD, duration=0:00:01.144, duration_ms=1144, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-06 19:22:22], mode=WORKBENCH_START, duration=0:00:15.159, duration_ms=15159, data={}
+timestamp=[2024-07-06 19:22:22], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.438, duration_ms=438, data={}
+timestamp=[2024-07-06 19:22:24], mode=WORKBENCH_UI_INIT, duration=0:00:02.246, duration_ms=2246, data={editors_count=8, platform_editors_count=3, projects_count=9, platform_projects_count=2, active_platform_editor=false, projects=RemoteSystemsTempFiles,T0_P,T0_P_CPP,T0_P_CPP_system,T0_P_system,bd_wrapper,t0_p_bl,t0_p_bl_system,t1_p_cpp_system}
+timestamp=[2024-07-06 19:30:06], mode=PLATFORM_GENERATION, duration=0:00:13.315, duration_ms=13315, data={name=bd_wrapper}
+timestamp=[2024-07-06 19:30:14], mode=PLATFORM_GENERATION, duration=0:00:07.598, duration_ms=7598, data={name=t1_p_cpp_system}
+timestamp=[2024-07-06 19:30:15], mode=BUILD, duration=0:00:00.690, duration_ms=690, data={name=T0_P_CPP, configuration=Release, clean_build=true}
+timestamp=[2024-07-06 19:30:21], mode=BUILD, duration=0:00:05.281, duration_ms=5281, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-06 21:56:41], mode=PLATFORM_GENERATION, duration=0:00:06.954, duration_ms=6954, data={name=t1_p_cpp_system}
+timestamp=[2024-07-06 21:56:41], mode=BUILD, duration=0:00:00.549, duration_ms=549, data={name=T0_P_CPP, configuration=Release, clean_build=true}
+timestamp=[2024-07-06 21:56:44], mode=BUILD, duration=0:00:02.931, duration_ms=2931, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-06 22:49:51], mode=PLATFORM_GENERATION, duration=0:00:06.673, duration_ms=6673, data={name=t1_p_cpp_system}
+timestamp=[2024-07-06 22:49:52], mode=BUILD, duration=0:00:00.583, duration_ms=583, data={name=T0_P_CPP, configuration=Release, clean_build=true}
+timestamp=[2024-07-06 22:49:55], mode=BUILD, duration=0:00:03.331, duration_ms=3331, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-06 22:53:42], mode=PLATFORM_GENERATION, duration=0:00:06.754, duration_ms=6754, data={name=t1_p_cpp_system}
+timestamp=[2024-07-06 22:53:43], mode=BUILD, duration=0:00:01.023, duration_ms=1023, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-06 22:55:03], mode=PLATFORM_GENERATION, duration=0:00:06.687, duration_ms=6687, data={name=t1_p_cpp_system}
+timestamp=[2024-07-06 22:55:04], mode=BUILD, duration=0:00:00.578, duration_ms=578, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-06 22:57:40], mode=PLATFORM_GENERATION, duration=0:00:06.933, duration_ms=6933, data={name=t1_p_cpp_system}
+timestamp=[2024-07-06 22:57:41], mode=BUILD, duration=0:00:01.034, duration_ms=1034, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-06 23:05:22], mode=PLATFORM_GENERATION, duration=0:00:06.918, duration_ms=6918, data={name=t1_p_cpp_system}
+timestamp=[2024-07-06 23:05:23], mode=BUILD, duration=0:00:01.048, duration_ms=1048, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-06 23:06:47], mode=PLATFORM_GENERATION, duration=0:00:06.693, duration_ms=6693, data={name=t1_p_cpp_system}
+timestamp=[2024-07-06 23:06:48], mode=BUILD, duration=0:00:01.115, duration_ms=1115, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-06 23:09:25], mode=PLATFORM_GENERATION, duration=0:00:06.838, duration_ms=6838, data={name=t1_p_cpp_system}
+timestamp=[2024-07-06 23:09:26], mode=BUILD, duration=0:00:01.017, duration_ms=1017, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-06 23:16:07], mode=PLATFORM_GENERATION, duration=0:00:07.081, duration_ms=7081, data={name=t1_p_cpp_system}
+timestamp=[2024-07-06 23:16:08], mode=BUILD, duration=0:00:01.046, duration_ms=1046, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-06 23:17:33], mode=PLATFORM_GENERATION, duration=0:00:06.968, duration_ms=6968, data={name=t1_p_cpp_system}
+timestamp=[2024-07-06 23:17:34], mode=BUILD, duration=0:00:01.027, duration_ms=1027, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-06 23:20:19], mode=PLATFORM_GENERATION, duration=0:00:06.734, duration_ms=6734, data={name=t1_p_cpp_system}
+timestamp=[2024-07-06 23:20:20], mode=BUILD, duration=0:00:01.014, duration_ms=1014, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-06 23:22:50], mode=PLATFORM_GENERATION, duration=0:00:06.710, duration_ms=6710, data={name=t1_p_cpp_system}
+timestamp=[2024-07-06 23:22:51], mode=BUILD, duration=0:00:01.021, duration_ms=1021, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-06 23:27:17], mode=PLATFORM_GENERATION, duration=0:00:06.729, duration_ms=6729, data={name=t1_p_cpp_system}
+timestamp=[2024-07-06 23:27:18], mode=BUILD, duration=0:00:01.033, duration_ms=1033, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-06 23:38:06], mode=PLATFORM_GENERATION, duration=0:00:06.813, duration_ms=6813, data={name=t1_p_cpp_system}
+timestamp=[2024-07-06 23:38:07], mode=BUILD, duration=0:00:01.080, duration_ms=1080, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-06 23:41:48], mode=PLATFORM_GENERATION, duration=0:00:06.663, duration_ms=6663, data={name=t1_p_cpp_system}
+timestamp=[2024-07-06 23:41:49], mode=BUILD, duration=0:00:01.030, duration_ms=1030, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-06 23:43:15], mode=BUILD, duration=0:00:00.734, duration_ms=734, data={name=t0_p_bl, configuration=Debug, clean_build=false}
+timestamp=[2024-07-06 23:43:17], mode=BUILD, duration=0:00:00.528, duration_ms=528, data={name=t0_p_bl_system, configuration=Debug, clean_build=false}
+timestamp=[2024-07-06 23:43:26], mode=PLATFORM_GENERATION, duration=0:00:06.723, duration_ms=6723, data={name=t1_p_cpp_system}
+timestamp=[2024-07-06 23:43:27], mode=BUILD, duration=0:00:01.112, duration_ms=1112, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-06 23:49:45], mode=PLATFORM_GENERATION, duration=0:00:06.737, duration_ms=6737, data={name=t1_p_cpp_system}
+timestamp=[2024-07-06 23:49:46], mode=BUILD, duration=0:00:01.041, duration_ms=1041, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-06 23:53:10], mode=PLATFORM_GENERATION, duration=0:00:07.129, duration_ms=7129, data={name=t1_p_cpp_system}
+timestamp=[2024-07-06 23:53:11], mode=BUILD, duration=0:00:01.085, duration_ms=1085, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-06 23:53:50], mode=PLATFORM_GENERATION, duration=0:00:06.890, duration_ms=6890, data={name=t1_p_cpp_system}
+timestamp=[2024-07-06 23:53:51], mode=BUILD, duration=0:00:01.039, duration_ms=1039, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-06 23:54:38], mode=PLATFORM_GENERATION, duration=0:00:06.731, duration_ms=6731, data={name=t1_p_cpp_system}
+timestamp=[2024-07-06 23:54:39], mode=BUILD, duration=0:00:01.094, duration_ms=1094, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-07 09:53:09], mode=WORKBENCH_START, duration=0:00:13.279, duration_ms=13279, data={}
+timestamp=[2024-07-07 09:53:10], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.424, duration_ms=424, data={}
+timestamp=[2024-07-07 09:53:12], mode=WORKBENCH_UI_INIT, duration=0:00:02.735, duration_ms=2735, data={editors_count=8, platform_editors_count=3, projects_count=9, platform_projects_count=2, active_platform_editor=false, projects=RemoteSystemsTempFiles,T0_P,T0_P_CPP,T0_P_CPP_system,T0_P_system,bd_wrapper,t0_p_bl,t0_p_bl_system,t1_p_cpp_system}
+timestamp=[2024-07-07 10:26:20], mode=PLATFORM_GENERATION, duration=0:00:12.698, duration_ms=12698, data={name=bd_wrapper}
+timestamp=[2024-07-07 10:26:27], mode=PLATFORM_GENERATION, duration=0:00:06.899, duration_ms=6899, data={name=t1_p_cpp_system}
+timestamp=[2024-07-07 10:26:28], mode=BUILD, duration=0:00:00.637, duration_ms=637, data={name=T0_P_CPP, configuration=Release, clean_build=true}
+timestamp=[2024-07-07 10:26:32], mode=BUILD, duration=0:00:04.018, duration_ms=4018, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-07 10:29:17], mode=PLATFORM_GENERATION, duration=0:00:06.497, duration_ms=6497, data={name=t1_p_cpp_system}
+timestamp=[2024-07-07 10:29:18], mode=BUILD, duration=0:00:01.181, duration_ms=1181, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-07 10:34:59], mode=PLATFORM_GENERATION, duration=0:00:06.438, duration_ms=6438, data={name=t1_p_cpp_system}
+timestamp=[2024-07-07 10:35:02], mode=BUILD, duration=0:00:02.552, duration_ms=2552, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-07 10:35:28], mode=PLATFORM_GENERATION, duration=0:00:06.415, duration_ms=6415, data={name=t1_p_cpp_system}
+timestamp=[2024-07-07 10:35:28], mode=BUILD, duration=0:00:00.546, duration_ms=546, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-07 10:35:57], mode=PLATFORM_GENERATION, duration=0:00:06.434, duration_ms=6434, data={name=t1_p_cpp_system}
+timestamp=[2024-07-07 10:35:58], mode=BUILD, duration=0:00:01.032, duration_ms=1032, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-07 10:36:55], mode=PLATFORM_GENERATION, duration=0:00:06.629, duration_ms=6629, data={name=t1_p_cpp_system}
+timestamp=[2024-07-07 10:36:56], mode=BUILD, duration=0:00:01.041, duration_ms=1041, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-07 10:38:42], mode=PLATFORM_GENERATION, duration=0:00:06.289, duration_ms=6289, data={name=t1_p_cpp_system}
+timestamp=[2024-07-07 10:38:45], mode=BUILD, duration=0:00:02.504, duration_ms=2504, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-07 10:44:51], mode=PLATFORM_GENERATION, duration=0:00:06.364, duration_ms=6364, data={name=t1_p_cpp_system}
+timestamp=[2024-07-07 10:44:53], mode=BUILD, duration=0:00:02.553, duration_ms=2553, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-07 10:50:37], mode=PLATFORM_GENERATION, duration=0:00:06.544, duration_ms=6544, data={name=t1_p_cpp_system}
+timestamp=[2024-07-07 10:50:38], mode=BUILD, duration=0:00:00.931, duration_ms=931, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-07 10:51:19], mode=PLATFORM_GENERATION, duration=0:00:06.388, duration_ms=6388, data={name=t1_p_cpp_system}
+timestamp=[2024-07-07 10:51:20], mode=BUILD, duration=0:00:00.945, duration_ms=945, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-07 10:54:03], mode=PLATFORM_GENERATION, duration=0:00:06.558, duration_ms=6558, data={name=t1_p_cpp_system}
+timestamp=[2024-07-07 10:54:04], mode=BUILD, duration=0:00:00.947, duration_ms=947, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-07 11:05:19], mode=PLATFORM_GENERATION, duration=0:00:06.406, duration_ms=6406, data={name=t1_p_cpp_system}
+timestamp=[2024-07-07 11:05:20], mode=BUILD, duration=0:00:00.934, duration_ms=934, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-07 11:07:19], mode=PLATFORM_GENERATION, duration=0:00:06.548, duration_ms=6548, data={name=t1_p_cpp_system}
+timestamp=[2024-07-07 11:07:20], mode=BUILD, duration=0:00:00.932, duration_ms=932, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-07 11:09:33], mode=PLATFORM_GENERATION, duration=0:00:06.548, duration_ms=6548, data={name=t1_p_cpp_system}
+timestamp=[2024-07-07 11:09:35], mode=BUILD, duration=0:00:01.028, duration_ms=1028, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-07 11:13:24], mode=PLATFORM_GENERATION, duration=0:00:06.748, duration_ms=6748, data={name=t1_p_cpp_system}
+timestamp=[2024-07-07 11:13:26], mode=BUILD, duration=0:00:02.664, duration_ms=2664, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-07 11:14:55], mode=PLATFORM_GENERATION, duration=0:00:06.918, duration_ms=6918, data={name=t1_p_cpp_system}
+timestamp=[2024-07-07 11:14:56], mode=BUILD, duration=0:00:00.936, duration_ms=936, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-07 11:19:47], mode=PLATFORM_GENERATION, duration=0:00:06.720, duration_ms=6720, data={name=t1_p_cpp_system}
+timestamp=[2024-07-07 11:19:48], mode=BUILD, duration=0:00:00.948, duration_ms=948, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-07 11:20:42], mode=PLATFORM_GENERATION, duration=0:00:06.581, duration_ms=6581, data={name=t1_p_cpp_system}
+timestamp=[2024-07-07 11:20:43], mode=BUILD, duration=0:00:00.941, duration_ms=941, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-07 11:22:02], mode=PLATFORM_GENERATION, duration=0:00:06.609, duration_ms=6609, data={name=t1_p_cpp_system}
+timestamp=[2024-07-07 11:22:03], mode=BUILD, duration=0:00:00.988, duration_ms=988, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-07 11:27:33], mode=PLATFORM_GENERATION, duration=0:00:06.596, duration_ms=6596, data={name=t1_p_cpp_system}
+timestamp=[2024-07-07 11:27:34], mode=BUILD, duration=0:00:00.951, duration_ms=951, data={name=T0_P_CPP, configuration=Release, clean_build=false}
+timestamp=[2024-07-07 16:32:37], mode=WORKBENCH_START, duration=0:00:10.446, duration_ms=10446, data={}
+timestamp=[2024-07-07 16:32:38], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.278, duration_ms=278, data={}
+timestamp=[2024-07-07 16:32:38], mode=WORKBENCH_UI_INIT, duration=0:00:01.205, duration_ms=1205, data={editors_count=8, platform_editors_count=3, projects_count=9, platform_projects_count=2, active_platform_editor=false, projects=RemoteSystemsTempFiles,T0_P,T0_P_CPP,T0_P_CPP_system,T0_P_system,bd_wrapper,t0_p_bl,t0_p_bl_system,t1_p_cpp_system}
+timestamp=[2024-07-07 18:48:06], mode=PLATFORM_GENERATION, duration=0:00:09.331, duration_ms=9331, data={name=bd_wrapper}
+timestamp=[2024-07-07 18:48:07], mode=BUILD, duration=0:00:00.565, duration_ms=565, data={name=T0_P_CPP, configuration=Release, clean_build=true}
+timestamp=[2024-07-07 18:48:16], mode=PLATFORM_GENERATION, duration=0:00:05.871, duration_ms=5871, data={name=bd_wrapper}
+timestamp=[2024-07-07 18:48:17], mode=BUILD, duration=0:00:00.537, duration_ms=537, data={name=T0_P_CPP, configuration=Release, clean_build=true}

@@ -1,0 +1,14 @@
+===================================
+Configuration Memory information
+===================================
+File Format        MCS
+Interface          SPIX4
+Size               16M
+Start Address      0x00000000
+End Address        0x00FFFFFF
+Checksum           0xDED28462
+Fill Value         0xFF
+
+Addr1         Addr2         Date                    File(s)                                                      Checksum
+0x00000000    0x0021728B    Jul  5 23:55:19 2024    /mnt/hgfs/DBS/a7_awg_p1/p0/1/1.runs/impl_1/bd_wrapper.bit    0x01239DD6
+File Checksum Total                                                                                              0x01239DD6

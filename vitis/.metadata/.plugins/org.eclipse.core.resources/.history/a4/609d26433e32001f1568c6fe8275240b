@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="t0_p_bl" location="/mnt/hgfs/DBS/a7_awg_p/vitis/t0_p_bl" platform="/mnt/hgfs/DBS/a7_awg_p/vitis/bd_wrapper/export/bd_wrapper/bd_wrapper.xpfm" platformUID="xilinx:::0.0(custom)" systemProject="t0_p_bl_system" sysConfig="bd_wrapper" runtime="C/C++" cpu="standalone_microblaze_0" cpuInstance="microblaze_0" os="standalone" mssSignature="f4695647c39c67890bcc65d6424cf60c">
+  <configuration name="Debug" id="xilinx.gnu.mb.exe.debug.973460002" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.mb.exe.release.1564617510" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="srec_spi_bootloader" hasBspSettings="true"/>
+</sdkproject:SdkProject>

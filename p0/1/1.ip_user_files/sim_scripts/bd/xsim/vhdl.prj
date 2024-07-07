@@ -1,0 +1,19 @@
+vhdl xil_defaultlib  \
+"../../../../usr/bd/bd/ip/bd_microblaze_0_0/sim/bd_microblaze_0_0.vhd" \
+"../../../../usr/bd/bd/ip/bd_microblaze_0_axi_intc_0/sim/bd_microblaze_0_axi_intc_0.vhd" \
+"../../../../usr/bd/bd/ip/bd_mdm_1_0/sim/bd_mdm_1_0.vhd" \
+"../../../../usr/bd/bd/ip/bd_rst_clk_wiz_1_100M_0/sim/bd_rst_clk_wiz_1_100M_0.vhd" \
+"../../../../usr/bd/bd/ip/bd_util_ds_buf_0_0/util_ds_buf.vhd" \
+"../../../../usr/bd/bd/ip/bd_util_ds_buf_0_0/sim/bd_util_ds_buf_0_0.vhd" \
+"../../../../usr/bd/bd/ip/bd_dlmb_v10_0/sim/bd_dlmb_v10_0.vhd" \
+"../../../../usr/bd/bd/ip/bd_ilmb_v10_0/sim/bd_ilmb_v10_0.vhd" \
+"../../../../usr/bd/bd/ip/bd_dlmb_bram_if_cntlr_0/sim/bd_dlmb_bram_if_cntlr_0.vhd" \
+"../../../../usr/bd/bd/ip/bd_ilmb_bram_if_cntlr_0/sim/bd_ilmb_bram_if_cntlr_0.vhd" \
+"../../../../usr/bd/bd/ip/bd_axi_gpio_0_0/sim/bd_axi_gpio_0_0.vhd" \
+"../../../../usr/bd/bd/ip/bd_axi_gpio_1_0/sim/bd_axi_gpio_1_0.vhd" \
+"../../../../usr/bd/bd/ipshared/9a5f/src/axi4_lite_interface_v1_0.vhd" \
+"../../../../usr/bd/bd/ipshared/9a5f/src/spi_peripheral.vhd" \
+"../../../../usr/bd/bd/ipshared/9a5f/src/axi_spi_simple.vhd" \
+"../../../../usr/bd/bd/ip/bd_axi_spi_simple_0_2/sim/bd_axi_spi_simple_0_2.vhd" \
+
+nosort
